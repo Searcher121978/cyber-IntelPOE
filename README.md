@@ -3,13 +3,18 @@
 
 <h2>Overview</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Historical Analysis
+- Course of Action
+- Intelligence Gaps
+- World Events
+- Common Vulnerabilities
+- Tactics, Techniques & Procedures
+- Data Extracted
+- Tool Analysis
+- Timeline Analysis
+- Target Analysis
 
-<h2>Installation Steps</h2>
+<h2>Historical Analysis</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
