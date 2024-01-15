@@ -21,15 +21,13 @@
 </p>
 <p>
 (U) A timeline of attacks can give your organization a great way of understanding the value of your organization’s data to cyber criminals, Threat Actors, and everything in between. 
-
 </p>
 <br />
 <h2>Course of Action</h2>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/f30dd3d2-216b-4568-8e3b-04e4c7bd11be)
+
+(U) Understanding what the person or group that has breached your network will do next give defenders place to start ensuring that countermeasures are put in place ahead of time. 
 </p>
 <br />
 <h2>Intelligence Gaps</h2>
