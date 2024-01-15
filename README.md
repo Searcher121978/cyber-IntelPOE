@@ -26,7 +26,7 @@
 
 ![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/f30dd3d2-216b-4568-8e3b-04e4c7bd11be)
 
-(U) Understanding what the person or group that has breached your network will do next gives defenders a place to start ensuring that countermeasures are put in place ahead of time. 
+(U) Understanding what the person or group that has breached your network will do next gives defenders a place to start, ensuring that countermeasures are implemented ahead of time. 
 </p>
 <br />
 <h2>Intelligence Gaps</h2>
@@ -44,41 +44,50 @@ Some sites, like the Vulnerability Management Tool Data Repository, will have in
 <br />
 <h2>Tactics, Techniques & Procedures</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/858fe6a0-ad9d-4012-a7d2-0e85964a65f5)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With the deployment of AI to the general public, TTPs will expand exponentially; however, AI may be used to create a new database of TTPs based on TTPs identified as being created by AI.
 </p>
 <br />
 <h2>Data Extracted</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/27cf39af-58b5-4ce1-a0ff-316612417305)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+It should include any documents that were extracted, the location of where the documents were taken from, the computer and whose it was, the time and date, and the server, individual, and location to where the data was sent and how.
 </p>
 <br />
 <h2>Tool Analysis</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/ed506fb6-f73d-49f7-8d89-7814f47520c4)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Give an overview of the tools that the Advanced Persistent Threat is employing. 
 </p>
 <br />
 <h2>Timeline Analysis</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/86c8748f-e62c-4224-af30-0954745d94e0)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Should include a graphic presentation (via PowerPoint or analyst notebook) of everything that occurred during the attack.
 </p>
 <br />
 <h2>Target Analysis</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/d17c3042-54c0-4265-a217-4ed48e8cc9e1)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Start your research on a micro level and finish on a macro level. Clues to the identity of the attacker(s) may not be apparent solely by researching the targeted attack but may be found by researching beyond the target itself. 
 </p>
 <br />
