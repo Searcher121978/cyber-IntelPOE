@@ -36,14 +36,6 @@
 </p>
 <p>
 An analyst should never stop at “I don’t know,” but rather at “I performed x-action to address said intelligence gap."
-</p>
-<br />
-</p>
-<br />
-<h2>Common Vulnerabilities & Exposures</h2>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 
 ![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/8d45eaa0-4a7d-4763-9cd6-a7bdf4fb2a61)
