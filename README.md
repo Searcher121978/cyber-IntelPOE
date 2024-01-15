@@ -27,15 +27,16 @@
 
 ![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/f30dd3d2-216b-4568-8e3b-04e4c7bd11be)
 
-(U) Understanding what the person or group that has breached your network will do next give defenders place to start ensuring that countermeasures are put in place ahead of time. 
+(U) Understanding what the person or group that has breached your network will do next gives defenders a place to start ensuring that countermeasures are put in place ahead of time. 
 </p>
 <br />
 <h2>Intelligence Gaps</h2>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/5f98b6fd-b394-4920-bca2-15fe44061658)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An analyst should never stop at “I don’t know,” but rather at “I performed x-action to address said intelligence gap."
 </p>
 <br />
 <h2>World Events</h2>
