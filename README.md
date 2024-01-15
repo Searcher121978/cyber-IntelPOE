@@ -6,8 +6,7 @@
 - Historical Analysis
 - Course of Action
 - Intelligence Gaps
-- World Events
-- Common Vulnerabilities
+- Common Vulnerabilities & Exposures 
 - Tactics, Techniques & Procedures
 - Data Extracted
 - Tool Analysis
@@ -39,21 +38,17 @@
 An analyst should never stop at “I don’t know,” but rather at “I performed x-action to address said intelligence gap."
 </p>
 <br />
-<h2>World Events</h2>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-<h2>Common Vulnerabilities</h2>
+<h2>Common Vulnerabilities & Exposures</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/Searcher121978/cyber-IntelPOE/assets/124515149/8d45eaa0-4a7d-4763-9cd6-a7bdf4fb2a61)
 </p>
+Some sites, like the Vulnerability Management Tool Data Repository, will have information.
 <br />
 <h2>Tactics, Techniques & Procedures</h2>
 <p>
